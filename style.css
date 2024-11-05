@@ -1,0 +1,20 @@
+:root {
+    --backdrop: rgb(32, 32, 32);
+    --topLevelPane: rgb(62, 66, 86);
+}
+
+.top-container {
+
+    background-color: alpha(var(--backdrop), 0.8);
+    min-height: 2em;
+
+    padding: 2px;
+    margin: 2px;
+
+}
+
+
+window {
+    background-color: transparent;
+
+}

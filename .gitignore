@@ -1,0 +1,7 @@
+*.out
+wn_bar
+
+*.a
+*.so
+
+.vscode/

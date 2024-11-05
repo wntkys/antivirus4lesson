@@ -1,0 +1,8 @@
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/package.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/package_source.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/edit_cache.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/rebuild_cache.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/list_install_components.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/install.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/install/local.dir
+/home/wntkys/projes/yab4hl/readerwriterqueue-master/build/CMakeFiles/install/strip.dir
